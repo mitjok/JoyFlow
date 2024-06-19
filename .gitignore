@@ -1,0 +1,6 @@
+# Ignore Pods folder
+Pods/
+# Ignore Google file
+JoyFlow/SupportingFiles/GoogleService-Info.plist
+# Ignore app specs file
+JoyFlow/Info.plist
